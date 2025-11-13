@@ -1,0 +1,2 @@
+Líneas de código contadas: 94
+Métodos contados: 11
